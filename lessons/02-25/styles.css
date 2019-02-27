@@ -1,0 +1,18 @@
+body {background-color:brown;
+
+}
+#division01 {
+    background-color: black; border-image-width: 300px; 
+
+}
+img {width:300px;
+}
+#division02 {
+    background-color:purple;
+
+}
+img {width: 600px;
+}
+div {
+    width: 500px
+}
