@@ -1,18 +1,79 @@
 body {background-color:brown;
+padding-left: 20px;
+padding-right: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
 
 }
 #division01 {
-    background-color: black; border-image-width: 300px; 
+    background-color: pink; 
+   
 
+}
+
+#division02 {
+    background-color:purple;
+}
+#division03{
+    background-color: black;
+}
+#division04{
+    background-color: orange;
+}
+#my-paragraph {
+    color: red;
 }
 img {width:300px;
 }
-#division02 {
-    background-color:purple;
+
+#image01 {
+    width:300px;
+    padding-left: 20px;
+}
+#image02 {
+    width:300px;
+    padding-left: 20px;
+}
+#image03 {
+    width:300px;
+    padding-top: 20px;
+}
+
+#image04{
+    width: 300px;
+    padding-left :20px;
+    padding-right: 20px;
+}
+
+h1 {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 100px;
 
 }
-img {width: 600px;
+p{
+    padding-left: 20px;
 }
-div {
-    width: 500px
+h2 {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin: 100px; 
+    
+
 }
+p{padding-left: 20px;
+
+}
+
+}
+h3 {padding-left: 20px; 
+    padding-top: 20px;
+    margin: 100px; 
+}
+h4{{padding-left: 250px; 
+    padding-top: 250px;
+    
+
+}
+
+/* padding helps to create space between elements and margin between elements *\

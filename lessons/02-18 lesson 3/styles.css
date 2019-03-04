@@ -11,7 +11,7 @@ h1{
 h2{color: orchid;
 font-family: "Arizonia";
 }
-img {width:300px;
+img {width:400px;
 }
 a{
     color:red;
@@ -19,4 +19,13 @@ a{
 h3{color:blue;
 }
 img {width:300px;
+}
+#image01 {
+    width:300px;
+}
+#image02 {
+    width:300px;
+}
+#image03 {
+    width:300px;
 }
